@@ -15,4 +15,4 @@ Evaluation Metric: roc_auc_score
 
 I leveraged on Machine learning to predict customers who are likely to default or not.
 
-This is Qualification Competition for the Data Science Nigeria AI Bootcamp 2020 cohort.
+T
