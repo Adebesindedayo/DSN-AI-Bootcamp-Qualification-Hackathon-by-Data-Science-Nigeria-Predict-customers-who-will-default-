@@ -14,5 +14,3 @@ IMPROVING ON THE MODELS Models: The solution was built on a stack of 8 models (L
 Evaluation Metric: roc_auc_score
 
 I leveraged on Machine learning to predict customers who are likely to default or not.
-
-T
